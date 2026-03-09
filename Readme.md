@@ -1,10 +1,22 @@
-## Recruitment Hub
+## Recruitment Hub - Backend
 
 Features to implement:
 
 - Enroll trainers
 - Enroll institutes
 - Enroll company
+
+## Installation
+
+```
+pip install black
+```
+
+Adds middleware that, allows your Angular frontend (e.g., ) to call your Django API ().
+
+```
+pip install django-cors-headers
+```
 
 ### Enroll trainers
 
