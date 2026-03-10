@@ -8,8 +8,10 @@ Features to implement:
 
 ## Installation
 
+Crearte virtual environment
+
 ```
-pip install black
+pip install -r requirements.txt
 ```
 
 Adds middleware that, allows your Angular frontend (e.g., ) to call your Django API ().
