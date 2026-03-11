@@ -37,3 +37,39 @@ Eg.
   "total_experience": 5.5
 }
 ```
+
+### Institute
+
+GET http://127.0.0.1:8000/institute/get_institute/
+
+```
+[]
+```
+
+POST http://127.0.0.1:8000/institute/add_institute/
+
+```
+{
+
+  "institute_name": "Prime Talent Academy",
+
+  "contact_number": "9876543210",
+
+  "email": "contact@primetalent.com",
+
+  "course_offered": "Java Full Stack",
+
+  "tech_stack": "Java, Spring Boot, Angular",
+
+  "city": "Mumbai",
+
+  "address": "Andheri East, Mumbai"
+
+}
+```
+
+GET http://127.0.0.1:8000/institute/get_institute/
+
+```
+output here
+```
